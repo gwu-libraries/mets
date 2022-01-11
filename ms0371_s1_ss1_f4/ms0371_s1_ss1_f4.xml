@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2022-01-11T12:05:27-05:00">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Special Collections Research Center, The George Washington University</name>
+      <note>https://library.gwu.edu/scrc/contact</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="6136">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">Online copy: Armecia J. Banks interviewed by Tasha Dorsey</mods:title>
+          </mods:titleInfo>
+          <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">ms0371_s1_ss1_f4</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3">Sound Recording (Non-musical)</mods:typeOfResource>
+          <mods:language xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:languageTerm authority="iso639-2b" type="text" xmlns:mods="http://www.loc.gov/mods/v3">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code" xmlns:mods="http://www.loc.gov/mods/v3">eng</mods:languageTerm>
+          </mods:language>
+          <mods:dateCreated xmlns:mods="http://www.loc.gov/mods/v3">2014 April 11</mods:dateCreated>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:note displayLabel="Biographical and Historical" type="bioghist" xmlns:mods="http://www.loc.gov/mods/v3">Armecia J. Banks was born October 9, 1954 in Washington, DC to Mable Banks. She has one son, Rodney I. Riley, Jr., of Washington, DC. Her first job was with Mackey Co. Ms. Banks received a high school degree at age 50, and began her career at GW in 1973 working in the dish room in Thurston Hall. She has worked at various food service locations, including Subway, Quiznos, and Starbucks. She is a member of Free Gospel Deliverance Temple, where she sings in the choir and serves as a greeter and member of the outreach team.</mods:note>
+          <mods:note displayLabel="Scope and Contents" type="note" xmlns:mods="http://www.loc.gov/mods/v3">This oral history was conducted on April 11, 2014 by graduate student Tasha Dorsey. Ms. Dorsey conducted the oral history as part of a University Archives Diversity Research Fellowship awarded for the 2013-14 academic year. This program, sponsored by the Office of Diversity and Inclusion, funded research by undergraduate and graduate students in the University Archives on topics that would expand understanding of diversity in GW's history.
+
+The oral history discusses Armecia J. Bank's career working at GW in food services and her life experiences.</mods:note>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Special Collections Research Center, The George Washington University, 2130 H Street NW, Washington, 20052, United States of America (https://library.gwu.edu/scrc/contact)</mods:note>
+          <mods:subject authority="lcsh" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:topic xmlns:mods="http://www.loc.gov/mods/v3">Labor unions -- United States -- History -- 20th century</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:topic xmlns:mods="http://www.loc.gov/mods/v3">Universities and colleges -- Food service -- Washington (D.C.)</mods:topic>
+          </mods:subject>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec/>
+  <fileSec>
+    <fileGrp USE="Audio-Master">
+      <file GROUPID="6136" ID="23030">
+        <FLocat xlink:href="T:/current/ms0371/ms0371_s1_ss1_f4"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="6136" LABEL="Online copy: Armecia J. Banks interviewed by Tasha Dorsey" ORDER="1" TYPE="item">
+      <fptr FILEID="23030"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="6136" LABEL="Online copy: Armecia J. Banks interviewed by Tasha Dorsey" ORDER="1" TYPE="item">
+      <fptr FILEID="23030"/>
+    </div>
+  </structMap>
+</mets>
+

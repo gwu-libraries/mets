@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2022-01-11T12:03:51-05:00">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Special Collections Research Center, The George Washington University</name>
+      <note>https://library.gwu.edu/scrc/contact</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="2862">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">Online copy: Dr. Donald R. Lehman interviewed by Ashley Locke</mods:title>
+          </mods:titleInfo>
+          <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">ms0371_s1_ss1_f1_i1</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3">Sound Recording (Non-musical)</mods:typeOfResource>
+          <mods:language xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:languageTerm authority="iso639-2b" type="text" xmlns:mods="http://www.loc.gov/mods/v3">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code" xmlns:mods="http://www.loc.gov/mods/v3">eng</mods:languageTerm>
+          </mods:language>
+          <mods:dateCreated xmlns:mods="http://www.loc.gov/mods/v3">3 May 2011</mods:dateCreated>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:extent xmlns:mods="http://www.loc.gov/mods/v3">4 digital object(s)</mods:extent>
+          </mods:physicalDescription>
+          <mods:note type="bioghist" xmlns:mods="http://www.loc.gov/mods/v3">Dr. Donald R. Lehman (1940-) retired from The George Washington University on 31 December 2010 after serving more than thirty-eight years as a faculty member and administrator. 
+
+Dr. Lehman earned a BA in Physics from Rutgers University in 1962, an MS in Space Physics from the Air Force Institute of Technology in 1964, and a Ph.D. in Theoretical Physics from The George Washington University in 1970. Lehman joined the GW faculty as an Assistant Professor of Physics in 1972, becoming a fully Professor in 1982. He was made Chair of the Department of Physics in 1987, and he founded the Center for Nuclear Studies at the University in 1990. 
+
+From 1993 to 1996, Dr. Lehman held the position of Associate Vice President for Research and Graduate Studies. He was appointed Vice President for Academic Affairs in 1996, and served in this role until 2002 when he was made the George Gamow Professor of Theoretical Physics. He was the Executive Vice President for Academic Affairs from 2003 to 2010, and in 2010 he served as Senior Advisor to the President until his retirement.</mods:note>
+          <mods:note displayLabel="Scope and Contents" type="note" xmlns:mods="http://www.loc.gov/mods/v3">This oral history interview was conducted on May 3, 5, and 10, 2011 by Assistant University Archivist, Ashley Locke. Total running time: 3 hours and 35 minutes. The interview includes the following subjects:
+
+-Dr. Lehman's experiences as a student and instructor at The George Washington University
+-President Stephen J. Trachtenberg
+-President Steven Knapp
+-GW’s Center for Nuclear Studies
+-The Virginia Science and Technology Campus
+-The George Washington University’s absorption of Mount Vernon College
+-The Washington Research Library Consortium 
+-The Southeastern Universities Research Association
+-The University’s Writing Program
+-The 2003 Strategic Plan for Academic Excellence
+-Tenure-promotion culture at GW 
+-Columbian College of Arts and Sciences Dean Peg Barratt 
+-Elliott School of International Affairs Dean Michael Brown
+-School of Business and Public Management Dean Susan Phillips 
+-School of Business and Public Management Dean Doug Guthrie
+-Law School Dean Frederick M. Lawrence
+-Law School Dean Paul Schiff Berman
+-School of Engineering and Applied Science Dean David S. Dolling
+-Graduate School of Education and Human Development Dean Mary Hatwood Futrell 
+-Graduate School of Education and Human Development Dean Michael J. Feuer
+-College of Professional Studies Dean Kathleen Burke. 
+-School of Public Health and Health Services Dean Lynn Goldman
+-The creation of the College of Professional Studies.
+-The reorganization of the Graduate School of Education and Human Development in 2007
+-The reorganization of the School of Engineering and Applied Science 
+-Technology transfer 
+-The creation of the University Roundtable
+-The George Washington Institute of Public Policy</mods:note>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Special Collections Research Center, The George Washington University, 2130 H Street NW, Washington, 20052, United States of America (https://library.gwu.edu/scrc/contact)</mods:note>
+          <mods:subject authority="lcsh" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:topic xmlns:mods="http://www.loc.gov/mods/v3">Education, Higher -- United States</mods:topic>
+          </mods:subject>
+          <mods:subject xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name authority="local" type="personal" xmlns:mods="http://www.loc.gov/mods/v3">
+              <mods:namePart type="family" xmlns:mods="http://www.loc.gov/mods/v3">Lehman</mods:namePart>
+              <mods:namePart type="termsOfAddress" xmlns:mods="http://www.loc.gov/mods/v3"></mods:namePart>
+              <mods:namePart type="termsOfAddress" xmlns:mods="http://www.loc.gov/mods/v3"></mods:namePart>
+              <mods:namePart type="given" xmlns:mods="http://www.loc.gov/mods/v3">Donald Richard</mods:namePart>
+              <mods:role xmlns:mods="http://www.loc.gov/mods/v3">
+                <mods:roleTerm authority="marcrelator" type="text" xmlns:mods="http://www.loc.gov/mods/v3">subject</mods:roleTerm>
+              </mods:role>
+            </mods:name>
+          </mods:subject>
+          <mods:subject xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name authority="naf" type="corporate" xmlns:mods="http://www.loc.gov/mods/v3">
+              <mods:namePart type="family" xmlns:mods="http://www.loc.gov/mods/v3">George Washington University--Presidents</mods:namePart>
+              <mods:role xmlns:mods="http://www.loc.gov/mods/v3">
+                <mods:roleTerm authority="marcrelator" type="text" xmlns:mods="http://www.loc.gov/mods/v3">subject</mods:roleTerm>
+              </mods:role>
+            </mods:name>
+          </mods:subject>
+          <mods:subject xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name authority="naf" type="corporate" xmlns:mods="http://www.loc.gov/mods/v3">
+              <mods:namePart type="family" xmlns:mods="http://www.loc.gov/mods/v3">George Washington University--History</mods:namePart>
+              <mods:role xmlns:mods="http://www.loc.gov/mods/v3">
+                <mods:roleTerm authority="marcrelator" type="text" xmlns:mods="http://www.loc.gov/mods/v3">subject</mods:roleTerm>
+              </mods:role>
+            </mods:name>
+          </mods:subject>
+          <mods:subject xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name authority="local" type="corporate" xmlns:mods="http://www.loc.gov/mods/v3">
+              <mods:namePart type="family" xmlns:mods="http://www.loc.gov/mods/v3">George Washington University</mods:namePart>
+              <mods:namePart xmlns:mods="http://www.loc.gov/mods/v3">Office of the Vice President for Academic Affairs</mods:namePart>
+              <mods:role xmlns:mods="http://www.loc.gov/mods/v3">
+                <mods:roleTerm authority="marcrelator" type="text" xmlns:mods="http://www.loc.gov/mods/v3">subject</mods:roleTerm>
+              </mods:role>
+            </mods:name>
+          </mods:subject>
+          <mods:subject xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name authority="local" type="corporate" xmlns:mods="http://www.loc.gov/mods/v3">
+              <mods:namePart type="family" xmlns:mods="http://www.loc.gov/mods/v3">George Washington University</mods:namePart>
+              <mods:namePart xmlns:mods="http://www.loc.gov/mods/v3">Dept. of Physics</mods:namePart>
+              <mods:role xmlns:mods="http://www.loc.gov/mods/v3">
+                <mods:roleTerm authority="marcrelator" type="text" xmlns:mods="http://www.loc.gov/mods/v3">subject</mods:roleTerm>
+              </mods:role>
+            </mods:name>
+          </mods:subject>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec/>
+  <fileSec>
+    <fileGrp USE="Audio-Service">
+      <file GROUPID="2862" ID="24940">
+        <FLocat xlink:href="http://gwdspace.wrlc.org:8180/xmlui/handle/38989/c01p2nh6b"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2862" LABEL="Online copy: Dr. Donald R. Lehman interviewed by Ashley Locke" ORDER="1" TYPE="item">
+      <fptr FILEID="24940"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2862" LABEL="Online copy: Dr. Donald R. Lehman interviewed by Ashley Locke" ORDER="1" TYPE="item">
+      <fptr FILEID="24940"/>
+    </div>
+  </structMap>
+</mets>
+

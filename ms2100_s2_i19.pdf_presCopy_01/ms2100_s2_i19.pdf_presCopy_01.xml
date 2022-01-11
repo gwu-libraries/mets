@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2022-01-11T12:05:22-05:00">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Special Collections Research Center, The George Washington University</name>
+      <note>https://library.gwu.edu/scrc/contact</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="6108">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">Preservation copy: Transcript of interview with Matt Reese by John Franzen Tape 2 of 2</mods:title>
+          </mods:titleInfo>
+          <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">ms2100_s2_i19.pdf_presCopy_01</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3">Text</mods:typeOfResource>
+          <mods:dateCreated xmlns:mods="http://www.loc.gov/mods/v3">1996 December 12</mods:dateCreated>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:note type="originalsloc" xmlns:mods="http://www.loc.gov/mods/v3">This item is stored offline and will require staff assistance to access.</mods:note>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Special Collections Research Center, The George Washington University, 2130 H Street NW, Washington, 20052, United States of America (https://library.gwu.edu/scrc/contact)</mods:note>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec/>
+  <fileSec>
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.text-master">
+      <file GROUPID="6108" ID="35587">
+        <FLocat xlink:href="http://gwspec-digcol1.wrlc.org/Drobo5Volume1/ms02100/access/ms02100_s02_i019.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="6108" LABEL="Preservation copy: Transcript of interview with Matt Reese by John Franzen Tape 2 of 2" ORDER="1" TYPE="item">
+      <fptr FILEID="35587"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="6108" LABEL="Preservation copy: Transcript of interview with Matt Reese by John Franzen Tape 2 of 2" ORDER="1" TYPE="item">
+      <fptr FILEID="35587"/>
+    </div>
+  </structMap>
+</mets>
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2022-01-11T11:55:57-05:00">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Special Collections Research Center, The George Washington University</name>
+      <note>https://library.gwu.edu/scrc/contact</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="208">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">Preservation copy: Document, appointing James S. Chambers as the Navy agent for the Port of Philadelphia</mods:title>
+          </mods:titleInfo>
+          <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">ms2135_s1_c6_f91_i1_p1_presCopy_01</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3">Text</mods:typeOfResource>
+          <mods:dateCreated xmlns:mods="http://www.loc.gov/mods/v3">2010</mods:dateCreated>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:note displayLabel="General note" type="note" xmlns:mods="http://www.loc.gov/mods/v3">Printed document with manuscript inserts, appointing James S. Chambers as the Navy agent for the Port of Philadelphia. Signed by Abraham Lincoln as President of the United States and Gideon Welles as Secretary of the Navy. Formerly Ind. Ms.</mods:note>
+          <mods:note type="altformavail" xmlns:mods="http://www.loc.gov/mods/v3">The digital surrogate of this document is stored off-line. Please see staff for assistance.</mods:note>
+          <mods:note displayLabel="Storage location for digital object" type="altformavail" xmlns:mods="http://www.loc.gov/mods/v3">This digital object is located at http://gwspec-digcol1.wrlc.org/Drobo5Volume1/ms2135/preservation/ as of 2018-10-17.</mods:note>
+          <mods:note type="note" xmlns:mods="http://www.loc.gov/mods/v3">This document was scanned by the Abraham Lincoln papers project staff.  The digital objects were added to the lincoln papers project in 2010.</mods:note>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Special Collections Research Center, The George Washington University, 2130 H Street NW, Washington, 20052, United States of America (https://library.gwu.edu/scrc/contact)</mods:note>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec/>
+  <fileSec>
+    <fileGrp USE="">
+      <file GROUPID="208" ID="35601">
+        <FLocat xlink:href="http://gwspec-digcol1.wrlc.org/Drobo5Volume1/ms2135/preservation/ms2135_s01_c06_f91_i001_p1.tiff"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="208" LABEL="Preservation copy: Document, appointing James S. Chambers as the Navy agent for the Port of Philadelphia" ORDER="1" TYPE="item">
+      <fptr FILEID="35601"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="208" LABEL="Preservation copy: Document, appointing James S. Chambers as the Navy agent for the Port of Philadelphia" ORDER="1" TYPE="item">
+      <fptr FILEID="35601"/>
+    </div>
+  </structMap>
+</mets>
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2022-01-11T12:04:08-05:00">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Special Collections Research Center, The George Washington University</name>
+      <note>https://library.gwu.edu/scrc/contact</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="2958">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">Online copy: Performing Arts in Washington: Frankie Hewitt interviewed by Linda Beattie</mods:title>
+          </mods:titleInfo>
+          <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">ms0371_s1_s33_c_12_tape_35</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3">Sound Recording</mods:typeOfResource>
+          <mods:dateCreated xmlns:mods="http://www.loc.gov/mods/v3">1977 June 16</mods:dateCreated>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:note type="note" xmlns:mods="http://www.loc.gov/mods/v3">Frankie Hewitt (1931-2003) is best known for reviving historic Ford's Theatre and building it into the vibrant cultural venue it is today.  Hewitt began her work in 1965 when she discovered during a conversation with Secretary of the Interior, Stewart Udall, that the Federal government planned to renovate and turn the building into a museum. The theater had not been used since Abraham Lincoln's assassination in 1865.  Hewitt wanted the theater to regain its prominence as a place of live performances. She formed the nonprofit Ford's Theater Society and began raising money. Hewitt became Executive Director in 1971 and during her tenure produced nearly 70 musicals and with more than 24 of these being world premieres.  In 2002, for her work with the theater President George W. Bush awarded Hewitt a National Humanities Medal.</mods:note>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Special Collections Research Center, The George Washington University, 2130 H Street NW, Washington, 20052, United States of America (https://library.gwu.edu/scrc/contact)</mods:note>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec/>
+  <fileSec>
+    <fileGrp USE="Audio-Service">
+      <file GROUPID="2958" ID="39678">
+        <FLocat xlink:href="https://preservation-storage1.library.gwu.edu/Drobo5Volume1/ms0371/ms0371_s5/ford_theatre_tape_35_ms0371.wav"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2958" LABEL="Online copy: Performing Arts in Washington: Frankie Hewitt interviewed by Linda Beattie" ORDER="1" TYPE="item">
+      <fptr FILEID="39678"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2958" LABEL="Online copy: Performing Arts in Washington: Frankie Hewitt interviewed by Linda Beattie" ORDER="1" TYPE="item">
+      <fptr FILEID="39678"/>
+    </div>
+  </structMap>
+</mets>
+

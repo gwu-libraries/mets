@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2022-01-11T12:05:27-05:00">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Special Collections Research Center, The George Washington University</name>
+      <note>https://library.gwu.edu/scrc/contact</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="6135">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">Online copy: Douglas Johnson interviewed by Tasha Dorsey</mods:title>
+          </mods:titleInfo>
+          <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">ms0371_s1_ss1_f3</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3">Sound Recording (Non-musical)</mods:typeOfResource>
+          <mods:language xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:languageTerm authority="iso639-2b" type="text" xmlns:mods="http://www.loc.gov/mods/v3">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code" xmlns:mods="http://www.loc.gov/mods/v3">eng</mods:languageTerm>
+          </mods:language>
+          <mods:dateCreated xmlns:mods="http://www.loc.gov/mods/v3">2014 April 11</mods:dateCreated>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:note displayLabel="Scope and Contents" type="note" xmlns:mods="http://www.loc.gov/mods/v3">This oral history was conducted on April 11, 2014 by graduate student Tasha Dorsey. Ms. Dorsey conducted the oral history as part of a University Archives Diversity Research Fellowship awarded for the 2013-14 academic year. This program, sponsored by the Office of Diversity and Inclusion, funded research by undergraduate and graduate students in the University Archives on topics that would expand understanding of diversity in GW's history.
+
+The oral history discusses Douglas Johnson's career working at GW in food services and his life experiences.</mods:note>
+          <mods:note displayLabel="Biographical and Historical" type="bioghist" xmlns:mods="http://www.loc.gov/mods/v3">Douglas Johnson was born on August 3, 1955 in Clyo, Georgia to Bennit and Victoria Johnson. He is married to Bessie Louise Johnson, and has two children, Vicki Valorie Johnson and Douglas Johnson, Jr. He was educated at Effingham County High School in Springfield, Georgia and is a veteran of the Vietnam war.</mods:note>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Special Collections Research Center, The George Washington University, 2130 H Street NW, Washington, 20052, United States of America (https://library.gwu.edu/scrc/contact)</mods:note>
+          <mods:subject authority="lcsh" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:topic xmlns:mods="http://www.loc.gov/mods/v3">Universities and colleges -- Food service -- Washington (D.C.)</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:topic xmlns:mods="http://www.loc.gov/mods/v3">Labor unions -- United States -- History -- 20th century</mods:topic>
+          </mods:subject>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec/>
+  <fileSec>
+    <fileGrp USE="Audio-Master">
+      <file GROUPID="6135" ID="23029">
+        <FLocat xlink:href="T:/current/ms0371/ms0371_s1_ss1_f3"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="6135" LABEL="Online copy: Douglas Johnson interviewed by Tasha Dorsey" ORDER="1" TYPE="item">
+      <fptr FILEID="23029"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="6135" LABEL="Online copy: Douglas Johnson interviewed by Tasha Dorsey" ORDER="1" TYPE="item">
+      <fptr FILEID="23029"/>
+    </div>
+  </structMap>
+</mets>
+

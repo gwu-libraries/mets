@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2022-01-11T12:03:52-05:00">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Special Collections Research Center, The George Washington University</name>
+      <note>https://library.gwu.edu/scrc/contact</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="2869">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">Online copy: Roderick S. French interviewed by Ashley Locke</mods:title>
+          </mods:titleInfo>
+          <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">ms0371_s1_ss1_f2</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3">Sound Recording (Non-musical)</mods:typeOfResource>
+          <mods:language xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:languageTerm authority="iso639-2b" type="text" xmlns:mods="http://www.loc.gov/mods/v3">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code" xmlns:mods="http://www.loc.gov/mods/v3">eng</mods:languageTerm>
+          </mods:language>
+          <mods:dateCreated xmlns:mods="http://www.loc.gov/mods/v3">4 August 2011-17 August 2011</mods:dateCreated>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:note type="bioghist" xmlns:mods="http://www.loc.gov/mods/v3">Dr. Roderick S. French served The George Washington University for twenty-eight years as a faculty member and administrator. 
+
+Dr. French earned an A.B. in philosophy from Kenyon College, an M.Div. in church history, theology and biblical studies from the Episcopal Theological School in Cambridge, Massachusetts, an S.T.M. in Modern church history from Union Theological Seminary in New York City, and a Ph.D. in American Civilization from The George Washington University. French began his career as the Executive Director of the Youth Department of the World Council of Churches in Geneva (1959-64). He later served as Special Assistant to the Director of the Office of Public Affairs of the Peace Corps from 1967 to 1968. 
+
+Dr. French joined The George Washington University as a Ph.D. student in 1968 and was appointed as the Associate Director of the University's Division of Experimental Programs in 1969. He was made director of the Division in 1979, and was responsible for university-wide curricular innovation and academic program development. In 1984 he was made Vice President for Academic Affairs, a position he held until 1995 when he stepped down to work with the University Honors Program. Dr. French left GW in 1997 to become the First Chancellor of the American University of Sharjah in the United Arab Emirates. Today, he is Chancellor Emeritus of the American University of Sharjah, a member of its Board of Trustees, and secretary of the Board of Directors of the AUS-USA Foundation.</mods:note>
+          <mods:note displayLabel="Scope and Contents" type="note" xmlns:mods="http://www.loc.gov/mods/v3">This oral history interview was conducted on August 3, 12, and 17, 2011 by Assistant University Archivist, Ashley Locke. Total running time: 4 hours and 27 minutes. The interview includes the following subjects:
+
+1) French's work for the World Council of Churches in Geneva.  
+2) French's work for the Peace Corps Headquarters
+3) The socio-political atmosphere of Washington, D.C. and the country in the summer of 1968
+4) George Washington University's campus culture in the late 1960s
+5) GW President Lloyd Elliott
+6) The Division of Experimental Programs 
+7) National Endowment for the Humanities Challenge Grant
+8) Environmental Studies
+9) Pedagogy at GW in the 1970s, educational reform and innovations
+10)DEP Staff:  Perry Wallace  Sirulnik  Seldman Lear Love  Aron
+11) The Free and Easy Society
+12) The Dilthey Society
+13) D.C. Community Humanities Council 
+14) National Trust for Historic Preservation
+15) French's service as the Vice President for Academic Affairs
+16) Council of Deans
+17) Reorganization of School of International Affairs
+18) Diversification of Student Body and Faculty, Educational Opportunities Program
+19) Research
+20) Enrollment Management
+21) Radio and TV at GW
+22) Naval ROTC unit at GW
+23) Gelman Library
+24) Middle States Accreditation
+25) Continuing Education
+26) Virginia Science and Technology Campus
+27) GW Board of Trustees in the 1980s
+28) The Center for Washington Area Studies
+29) University seminar</mods:note>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Special Collections Research Center, The George Washington University, 2130 H Street NW, Washington, 20052, United States of America (https://library.gwu.edu/scrc/contact)</mods:note>
+          <mods:subject authority="lcsh" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:topic xmlns:mods="http://www.loc.gov/mods/v3">Education, Higher -- United States</mods:topic>
+          </mods:subject>
+          <mods:subject xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name authority="naf" type="corporate" xmlns:mods="http://www.loc.gov/mods/v3">
+              <mods:namePart type="family" xmlns:mods="http://www.loc.gov/mods/v3">George Washington University</mods:namePart>
+              <mods:role xmlns:mods="http://www.loc.gov/mods/v3">
+                <mods:roleTerm authority="marcrelator" type="text" xmlns:mods="http://www.loc.gov/mods/v3">subject</mods:roleTerm>
+              </mods:role>
+            </mods:name>
+          </mods:subject>
+          <mods:subject xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name authority="local" type="corporate" xmlns:mods="http://www.loc.gov/mods/v3">
+              <mods:namePart type="family" xmlns:mods="http://www.loc.gov/mods/v3">George Washington University</mods:namePart>
+              <mods:namePart xmlns:mods="http://www.loc.gov/mods/v3">Office of the Vice President for Academic Affairs</mods:namePart>
+              <mods:role xmlns:mods="http://www.loc.gov/mods/v3">
+                <mods:roleTerm authority="marcrelator" type="text" xmlns:mods="http://www.loc.gov/mods/v3">subject</mods:roleTerm>
+              </mods:role>
+            </mods:name>
+          </mods:subject>
+          <mods:subject xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name authority="naf" type="corporate" xmlns:mods="http://www.loc.gov/mods/v3">
+              <mods:namePart type="family" xmlns:mods="http://www.loc.gov/mods/v3">George Washington University</mods:namePart>
+              <mods:namePart xmlns:mods="http://www.loc.gov/mods/v3">Library</mods:namePart>
+              <mods:role xmlns:mods="http://www.loc.gov/mods/v3">
+                <mods:roleTerm authority="marcrelator" type="text" xmlns:mods="http://www.loc.gov/mods/v3">subject</mods:roleTerm>
+              </mods:role>
+            </mods:name>
+          </mods:subject>
+          <mods:subject xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name authority="naf" type="corporate" xmlns:mods="http://www.loc.gov/mods/v3">
+              <mods:namePart type="family" xmlns:mods="http://www.loc.gov/mods/v3">George Washington University</mods:namePart>
+              <mods:namePart xmlns:mods="http://www.loc.gov/mods/v3">Institute for Sino-Soviet Studies</mods:namePart>
+              <mods:role xmlns:mods="http://www.loc.gov/mods/v3">
+                <mods:roleTerm authority="marcrelator" type="text" xmlns:mods="http://www.loc.gov/mods/v3">subject</mods:roleTerm>
+              </mods:role>
+            </mods:name>
+          </mods:subject>
+          <mods:subject xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name authority="local" type="corporate" xmlns:mods="http://www.loc.gov/mods/v3">
+              <mods:namePart type="family" xmlns:mods="http://www.loc.gov/mods/v3">George Washington University</mods:namePart>
+              <mods:namePart xmlns:mods="http://www.loc.gov/mods/v3">Educational Opportunities Program</mods:namePart>
+              <mods:role xmlns:mods="http://www.loc.gov/mods/v3">
+                <mods:roleTerm authority="marcrelator" type="text" xmlns:mods="http://www.loc.gov/mods/v3">subject</mods:roleTerm>
+              </mods:role>
+            </mods:name>
+          </mods:subject>
+          <mods:subject xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name authority="naf" type="corporate" xmlns:mods="http://www.loc.gov/mods/v3">
+              <mods:namePart type="family" xmlns:mods="http://www.loc.gov/mods/v3">George Washington University</mods:namePart>
+              <mods:namePart xmlns:mods="http://www.loc.gov/mods/v3">Board of Trustees</mods:namePart>
+              <mods:role xmlns:mods="http://www.loc.gov/mods/v3">
+                <mods:roleTerm authority="marcrelator" type="text" xmlns:mods="http://www.loc.gov/mods/v3">subject</mods:roleTerm>
+              </mods:role>
+            </mods:name>
+          </mods:subject>
+          <mods:subject xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name authority="naf" type="corporate" xmlns:mods="http://www.loc.gov/mods/v3">
+              <mods:namePart type="family" xmlns:mods="http://www.loc.gov/mods/v3">George Washington University--Presidents</mods:namePart>
+              <mods:role xmlns:mods="http://www.loc.gov/mods/v3">
+                <mods:roleTerm authority="marcrelator" type="text" xmlns:mods="http://www.loc.gov/mods/v3">subject</mods:roleTerm>
+              </mods:role>
+            </mods:name>
+          </mods:subject>
+          <mods:subject xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name authority="naf" type="corporate" xmlns:mods="http://www.loc.gov/mods/v3">
+              <mods:namePart type="family" xmlns:mods="http://www.loc.gov/mods/v3">George Washington University--History</mods:namePart>
+              <mods:role xmlns:mods="http://www.loc.gov/mods/v3">
+                <mods:roleTerm authority="marcrelator" type="text" xmlns:mods="http://www.loc.gov/mods/v3">subject</mods:roleTerm>
+              </mods:role>
+            </mods:name>
+          </mods:subject>
+          <mods:subject xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name authority="naf" type="personal" xmlns:mods="http://www.loc.gov/mods/v3">
+              <mods:namePart type="family" xmlns:mods="http://www.loc.gov/mods/v3">French</mods:namePart>
+              <mods:namePart type="termsOfAddress" xmlns:mods="http://www.loc.gov/mods/v3"></mods:namePart>
+              <mods:namePart type="termsOfAddress" xmlns:mods="http://www.loc.gov/mods/v3">Dr.</mods:namePart>
+              <mods:namePart type="given" xmlns:mods="http://www.loc.gov/mods/v3">Roderick S.</mods:namePart>
+              <mods:role xmlns:mods="http://www.loc.gov/mods/v3">
+                <mods:roleTerm authority="marcrelator" type="text" xmlns:mods="http://www.loc.gov/mods/v3">subject</mods:roleTerm>
+              </mods:role>
+            </mods:name>
+          </mods:subject>
+          <mods:subject xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name authority="naf" type="corporate" xmlns:mods="http://www.loc.gov/mods/v3">
+              <mods:namePart type="family" xmlns:mods="http://www.loc.gov/mods/v3">George Washington University--Faculty</mods:namePart>
+              <mods:role xmlns:mods="http://www.loc.gov/mods/v3">
+                <mods:roleTerm authority="marcrelator" type="text" xmlns:mods="http://www.loc.gov/mods/v3">subject</mods:roleTerm>
+              </mods:role>
+            </mods:name>
+          </mods:subject>
+          <mods:subject xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name authority="naf" type="personal" xmlns:mods="http://www.loc.gov/mods/v3">
+              <mods:namePart type="family" xmlns:mods="http://www.loc.gov/mods/v3">Elliott</mods:namePart>
+              <mods:namePart type="termsOfAddress" xmlns:mods="http://www.loc.gov/mods/v3"></mods:namePart>
+              <mods:namePart type="termsOfAddress" xmlns:mods="http://www.loc.gov/mods/v3"></mods:namePart>
+              <mods:namePart type="given" xmlns:mods="http://www.loc.gov/mods/v3">Lloyd H.</mods:namePart>
+              <mods:role xmlns:mods="http://www.loc.gov/mods/v3">
+                <mods:roleTerm authority="marcrelator" type="text" xmlns:mods="http://www.loc.gov/mods/v3">subject</mods:roleTerm>
+              </mods:role>
+            </mods:name>
+          </mods:subject>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec/>
+  <fileSec/>
+  <structMap TYPE="logical">
+    <div DMDID="2869" LABEL="Online copy: Roderick S. French interviewed by Ashley Locke" ORDER="1" TYPE="item"/>
+  </structMap>
+  <structMap TYPE="physical"/>
+</mets>
+
