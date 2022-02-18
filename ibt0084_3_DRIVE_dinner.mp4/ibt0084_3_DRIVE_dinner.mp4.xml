@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2022-02-18T15:41:38-05:00">
+  <metsHdr CREATEDATE="2022-02-18T15:41:43-05:00">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Special Collections Research Center, The George Washington University</name>
       <note>https://library.gwu.edu/scrc/contact</note>
       <note>Produced by ArchivesSpace</note>
     </agent>
   </metsHdr>
-  <dmdSec ID="11074">
+  <dmdSec ID="17107">
     <mdWrap MDTYPE="MODS">
       <xmlData>
         <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
           <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
-            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">Online copy: Coney Island Rally Tape 2</mods:title>
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">DRIVE Dinner</mods:title>
           </mods:titleInfo>
-          <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">IBT0084_s001_b001_f007</mods:identifier>
+          <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">ibt0084_3_DRIVE_dinner.mp4</mods:identifier>
           <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3"/>
           <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
           <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Special Collections Research Center, The George Washington University, 2130 H Street NW, Washington, 20052, United States of America (https://library.gwu.edu/scrc/contact)</mods:note>
@@ -25,19 +25,19 @@
   <amdSec/>
   <fileSec>
     <fileGrp USE="">
-      <file GROUPID="11074" ID="33954">
-        <FLocat xlink:href="https://archive.org/details/IBT0084_s001_b001_f007"/>
+      <file GROUPID="17107" ID="44962">
+        <FLocat xlink:href="https://archive.org/details/ibt0084_3_DRIVE_dinner"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
-    <div DMDID="11074" LABEL="Online copy: Coney Island Rally Tape 2" ORDER="1" TYPE="item">
-      <fptr FILEID="33954"/>
+    <div DMDID="17107" LABEL="DRIVE Dinner" ORDER="1" TYPE="item">
+      <fptr FILEID="44962"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
-    <div DMDID="11074" LABEL="Online copy: Coney Island Rally Tape 2" ORDER="1" TYPE="item">
-      <fptr FILEID="33954"/>
+    <div DMDID="17107" LABEL="DRIVE Dinner" ORDER="1" TYPE="item">
+      <fptr FILEID="44962"/>
     </div>
   </structMap>
 </mets>
