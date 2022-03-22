@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2022-03-22T15:44:39-04:00">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Special Collections Research Center, The George Washington University</name>
+      <note>https://library.gwu.edu/scrc/contact</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="17169">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">September 2 IBT call with affiliates</mods:title>
+          </mods:titleInfo>
+          <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">ibt_affiliate_call_september_2</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Special Collections Research Center, The George Washington University, 2130 H Street NW, Washington, 20052, United States of America (https://library.gwu.edu/scrc/contact)</mods:note>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec/>
+  <fileSec>
+    <fileGrp USE="">
+      <file GROUPID="17169" ID="45028">
+        <FLocat xlink:href="https://archive.org/details/ibt_affiliate_call_september_2"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="17169" LABEL="September 2 IBT call with affiliates" ORDER="1" TYPE="item">
+      <fptr FILEID="45028"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="17169" LABEL="September 2 IBT call with affiliates" ORDER="1" TYPE="item">
+      <fptr FILEID="45028"/>
+    </div>
+  </structMap>
+</mets>
+
