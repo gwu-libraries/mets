@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2022-01-18T12:34:17-05:00">
+  <metsHdr CREATEDATE="2022-05-05T17:47:01-04:00">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Special Collections Research Center, The George Washington University</name>
       <note>https://library.gwu.edu/scrc/contact</note>
@@ -12,7 +12,7 @@
       <xmlData>
         <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
           <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
-            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">Online copy: Architecture: S </mods:title>
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">Online copy: Architecture: S</mods:title>
           </mods:titleInfo>
           <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">ms2374_s01_ss04_b37_f10</mods:identifier>
           <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3"/>
@@ -31,12 +31,12 @@
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
-    <div DMDID="12963" LABEL="Online copy: Architecture: S " ORDER="1" TYPE="item">
+    <div DMDID="12963" LABEL="Online copy: Architecture: S" ORDER="1" TYPE="item">
       <fptr FILEID="40450"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
-    <div DMDID="12963" LABEL="Online copy: Architecture: S " ORDER="1" TYPE="item">
+    <div DMDID="12963" LABEL="Online copy: Architecture: S" ORDER="1" TYPE="item">
       <fptr FILEID="40450"/>
     </div>
   </structMap>

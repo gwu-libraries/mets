@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2022-01-18T12:42:22-05:00">
+  <metsHdr CREATEDATE="2022-05-05T18:49:48-04:00">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Special Collections Research Center, The George Washington University</name>
       <note>https://library.gwu.edu/scrc/contact</note>
@@ -12,7 +12,7 @@
       <xmlData>
         <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
           <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
-            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">Digital copy not online. Use this form for assistance. </mods:title>
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">Digital copy not online. Use this form for assistance.</mods:title>
           </mods:titleInfo>
           <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">contact-special-collections-rese_onlineCopy_E53H4R</mods:identifier>
           <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3"/>
@@ -31,12 +31,12 @@
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
-    <div DMDID="16942" LABEL="Digital copy not online. Use this form for assistance. " ORDER="1" TYPE="item">
+    <div DMDID="16942" LABEL="Digital copy not online. Use this form for assistance." ORDER="1" TYPE="item">
       <fptr FILEID="44756"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
-    <div DMDID="16942" LABEL="Digital copy not online. Use this form for assistance. " ORDER="1" TYPE="item">
+    <div DMDID="16942" LABEL="Digital copy not online. Use this form for assistance." ORDER="1" TYPE="item">
       <fptr FILEID="44756"/>
     </div>
   </structMap>
