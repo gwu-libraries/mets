@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2022-05-10T15:45:35-04:00">
+  <metsHdr CREATEDATE="2022-05-10T15:46:44-04:00">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Special Collections Research Center, The George Washington University</name>
       <note>https://library.gwu.edu/scrc/contact</note>
       <note>Produced by ArchivesSpace</note>
     </agent>
   </metsHdr>
-  <dmdSec ID="12979">
+  <dmdSec ID="17195">
     <mdWrap MDTYPE="MODS">
       <xmlData>
         <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
           <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
-            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">Online copy: Essay Contest Report 02.doc</mods:title>
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">Online copy: Bulletins and catalogues</mods:title>
           </mods:titleInfo>
-          <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">ms2187_s02_ss01_f01_i003_essay_contest_report_02</mods:identifier>
+          <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">gwu_bulletin_1905</mods:identifier>
           <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3"/>
           <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
           <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Special Collections Research Center, The George Washington University, 2130 H Street NW, Washington, 20052, United States of America (https://library.gwu.edu/scrc/contact)</mods:note>
@@ -25,19 +25,19 @@
   <amdSec/>
   <fileSec>
     <fileGrp USE="">
-      <file GROUPID="12979" ID="40466">
-        <FLocat xlink:href="https://archive.org/details/ms2187_s02_ss01_f01_i003_essay_contest_report_02"/>
+      <file GROUPID="17195" ID="45054">
+        <FLocat xlink:href="https://archive.org/details/gwu_bulletin_1905"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
-    <div DMDID="12979" LABEL="Online copy: Essay Contest Report 02.doc" ORDER="1" TYPE="item">
-      <fptr FILEID="40466"/>
+    <div DMDID="17195" LABEL="Online copy: Bulletins and catalogues" ORDER="1" TYPE="item">
+      <fptr FILEID="45054"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
-    <div DMDID="12979" LABEL="Online copy: Essay Contest Report 02.doc" ORDER="1" TYPE="item">
-      <fptr FILEID="40466"/>
+    <div DMDID="17195" LABEL="Online copy: Bulletins and catalogues" ORDER="1" TYPE="item">
+      <fptr FILEID="45054"/>
     </div>
   </structMap>
 </mets>
