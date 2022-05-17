@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2022-05-17T15:42:28-04:00">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Special Collections Research Center, The George Washington University</name>
+      <note>https://library.gwu.edu/scrc/contact</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="17196">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">Online copy: http://www.cliffordstearns.com/</mods:title>
+          </mods:titleInfo>
+          <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">www.cliffordstearns</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Special Collections Research Center, The George Washington University, 2130 H Street NW, Washington, 20052, United States of America (https://library.gwu.edu/scrc/contact)</mods:note>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec/>
+  <fileSec>
+    <fileGrp USE="">
+      <file GROUPID="17196" ID="45055">
+        <FLocat xlink:href="https://wayback.archive-it.org/18942/*/http://www.cliffordstearns.com/"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="17196" LABEL="Online copy: http://www.cliffordstearns.com/" ORDER="1" TYPE="item">
+      <fptr FILEID="45055"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="17196" LABEL="Online copy: http://www.cliffordstearns.com/" ORDER="1" TYPE="item">
+      <fptr FILEID="45055"/>
+    </div>
+  </structMap>
+</mets>
+
